@@ -10,7 +10,7 @@
 ### 💼 About Me
 
 - 💡 I build and ship real-world digital products, fast.
-- ☕ Founder of [**Chaibook**](https://github.com/jenilrupapara001/chaibook) – a modern SaaS for tea & coffee delivery tracking and billing.
+- ☕ Founder of [**Chaibook**](https://github.com/jenilrupapara001/Tea-Stall-Management.git) – a modern SaaS for tea & coffee delivery tracking and billing.
 - 🧠 Tech Stack: Python, Node.js, Streamlit, .NET, SQL Server
 - 💬 I love solving business problems with smart, practical code.
 - 📍 Based in Gujarat, India
