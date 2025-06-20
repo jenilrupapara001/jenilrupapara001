@@ -28,13 +28,13 @@ Databases:     SQL Server, MongoDB
 ```
 ### 📦 Featured Projects
 ```yaml
-### 💼 Chaibook – Tea Billing SaaS
+ 💼 Chaibook – Tea Billing SaaS
 Streamlit-based daily entry system with login, PDF invoice, reporting dashboard, and office-wise billing.
-### 📊 Streamlit Dashboards
+📊 Streamlit Dashboards
 Analytics & visualizations for business data and automation tools.
 
-### 💳 PhonePe API Integration (PHP)
+ 💳 PhonePe API Integration (PHP)
 PhonePe checkout system integrated into PHP web apps using real merchant keys.
 
-### 📦 Alibaba Excel Product Uploader
+📦 Alibaba Excel Product Uploader
 ASP.NET tool for bulk product listing on Alibaba using validated Excel sheets.
