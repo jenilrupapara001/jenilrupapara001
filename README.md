@@ -27,26 +27,24 @@ Databases:   SQL Server, MongoDB
 ### 📦 Featured Projects
 ```yaml
 📊 Streamlit Dashboards:
-Analytics & visualizations for business data and automation tools.
+  - Analytics & visualizations for business data and automation tools.
 
- 💳 PhonePe API Integration (PHP):
-PhonePe checkout system integrated into PHP web apps using real merchant keys.
+💳 PhonePe API Integration (PHP):
+  - PhonePe checkout system integrated into PHP web apps using real merchant keys.
 
 📦 Alibaba Excel Product Uploader:
-ASP.NET tool for bulk product listing on Alibaba using validated Excel sheets.
+  - ASP.NET tool for bulk product listing on Alibaba using validated Excel sheets.
 
-🚚 Ajio Return Tracking Dashboard
-- A multifunctional dashboard to track returns across shipping partners.
-Stack: React 18, TypeScript, Tailwind, Vite
-Real-time return tracking
-- Multi-partner support (Blue Dart, Delhivery, FedEx, DTDC, Ecom Express)
-- Advanced filters, search, and status workflow
-- Metrics: success rate, refunds, processing time
-- CSV export + responsive modern UI
-
-
+🚚 Ajio Return Tracking Dashboard:
+  - A multifunctional dashboard to track returns across shipping partners.
+  - Stack: React 18, TypeScript, Tailwind, Vite
+  - Real-time return tracking
+  - Multi-partner support (Blue Dart, Delhivery, FedEx, DTDC, Ecom Express)
+  - Advanced filters, search, and status workflow
+  - Metrics: success rate, refunds, processing time
+  - CSV export + responsive modern UI
 ```
-🔗 Repo:<p> <a href="https://github.com/jenilrupapara001/ajio-return-tracking-dashboard">Ajio Return Dashboard</a></p>
+🔗 Repo:<a href="https://github.com/jenilrupapara001/ajio-return-tracking-dashboard">Ajio Return Dashboard</a>
 ### 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jenilrupapara001&show_icons=true&theme=tokyonight&count_private=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jenilrupapara001&layout=compact&theme=tokyonight" height="160" /> </p>
 
