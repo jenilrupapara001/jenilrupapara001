@@ -1,90 +1,125 @@
-<h1 align="center">Hey 👋 I'm Jenil Rupapara</h1>
-<h3 align="center">🚀 MERN Stack Developer | Full Stack Engineer</h3>
+# 👋 Hi, I'm Jenil Rupapara
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F75FF&width=500&lines=Building+Modern+Web+Applications;MongoDB+%7C+Express+%7C+React+%7C+Node.js;RESTful+APIs+%7C+TypeScript+%7C+Next.js;Full+Stack+Development+Expert" alt="Typing SVG" />
-</p>
+**Full-Stack Developer | Building Scalable Web Applications & Internal Tools for B2B Teams**
 
----
-
-### 💼 About Me
-
-- 🛠 I build **scalable web applications & modern dashboards** using the MERN stack.
-- 🧑‍💻 Tech: MongoDB, Express.js, React, Node.js, Next.js, TypeScript
-- 💬 Passionate about creating seamless user experiences with clean, maintainable code.
-- 📍 Gujarat, India
-- 📫 Reach me: **jenilrupapara340@gmail.com**
+🚀 **Currently:** Full Stack Developer @ Amazon Digital Kendra  
+📍 **Location:** Surat, Gujarat, India  
+💼 **Open to:** Full-Stack, Backend, and Tech Lead opportunities
 
 ---
 
-### 🛠️ Tech Stack
+## 🎯 What I Do
 
-```yaml
-Languages:    JavaScript/TypeScript, HTML5, CSS3
-Frontend:     React, Next.js, Redux, Tailwind CSS, Material-UI
-Backend:      Node.js, Express.js, REST APIs, JWT Authentication
-Database:     MongoDB, Mongoose, Firebase
-Tools:        Git, VS Code, Postman, npm, Webpack, Vite
-Deployment:   Vercel, Netlify, Heroku, AWS
-```
+I build **production-ready web applications** that solve real business problems. Specializing in:
+
+- **Full-Stack Development:** React, Next.js, Node.js, TypeScript, MongoDB
+- **System Design:** Scalable architectures, database optimization, API design
+- **Performance Optimization:** 40%+ page speed improvements, Core Web Vitals
+- **B2B Solutions:** Dashboards, automation tools, internal platforms
 
 ---
 
-### 📦 Featured Projects
+## 📊 GitHub Stats
 
-```yaml
-📊 E-commerce Platform:
-  - Full-stack MERN application with shopping cart, payment integration, and admin panel.
-  - Stack: React, Node.js, Express, MongoDB, Stripe API
-  - Features: User authentication, product management, order tracking
+[![Jenil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenilrupapara001&show_icons=true&theme=dark)](https://github.com/jenilrupapara001)
 
-🚚 Ajio Return Tracking Dashboard:
-  - A multifunctional dashboard to track returns across shipping partners.
-  - Stack: React 18, TypeScript, Tailwind, Vite, Node.js, Express
-  - Real-time return tracking
-  - Multi-partner support (Blue Dart, Delhivery, FedEx, DTDC, Ecom Express)
-  - Advanced filters, search, and status workflow
-  - Metrics: success rate, refunds, processing time
-  - CSV export + responsive modern UI
-```
-
-🔗 Repo: <a href="https://github.com/jenilrupapara001/ajio-return-tracking-dashboard"> Ajio Return Dashboard</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jenilrupapara001&layout=compact&theme=dark)](https://github.com/jenilrupapara001)
 
 ---
 
-### 📈 GitHub Stats
+## 🏆 Featured Projects
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jenilrupapara001&show_icons=true&theme=tokyonight&count_private=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jenilrupapara001&layout=compact&theme=tokyonight" height="160" /> </p>
+### 1. **[Grownext.in](https://github.com/jenilrupapara001/grownext-in)** 
+Real-time dashboard for e-commerce operations  
+**Stack:** TypeScript, React, Node.js, MongoDB  
+**Impact:** 40% faster load time, real-time updates
 
-### 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jenilrupapara001&theme=tokyonight&margin-w=15&margin-h=15" /> </p>
+### 2. **[Bavadiya Realty Dashboard](https://github.com/jenilrupapara001/bavadiya-realty-dashboard)**  
+Real estate management platform  
+**Stack:** React, Next.js, Node.js, PostgreSQL  
+**Impact:** Reduced manual reporting by 10+ hours/week
 
-### 📊 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jenilrupapara001&theme=tokyo-night&hide_border=true" /> </p>
+### 3. **[Amazon FBA Profit Calculator](https://github.com/jenilrupapara001/Amazon-FBA-Profit-Calculator---Complete-Source-Code)**  
+Automated FBA fee estimation tool  
+**Stack:** TypeScript, React, Node.js, Tailwind CSS  
+**Impact:** Unlimited product calculations vs 10 original limit
 
----
+### 4. **[Metalex Dashboard](https://github.com/jenilrupapara001/metalex-dashboard)**  
+Invoice generation & management system  
+**Stack:** TypeScript, React, Node.js, MongoDB  
+**Impact:** 15-minute invoice processing vs 2 days
 
-### 🧾 Professional Experience
-
-```yaml
-👨‍💻 Full Stack Developer @ BrandCentral
-🛠 Building enterprise web applications with MERN stack
-🌱 Experienced in RESTful API development and database design
-⭐ Specialized in React, Node.js, and modern JavaScript frameworks
-```
-
----
-
-### 🤝 Open for Collaboration
-
-```yaml
-✅ Full-stack web applications using MERN
-✅ RESTful API development and microservices
-✅ React component libraries and reusable UI systems
-✅ E-commerce solutions and admin dashboards
-✅ Database design and optimization (MongoDB)
-```
+### 5. **[MReporter](https://github.com/jenilrupapara001/mrexporter)**  
+Data export and reporting automation tool  
+**Stack:** TypeScript, React, Node.js  
+**Impact:** Enterprise-grade reporting solution
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jenilrupapara001&label=Profile+Views&color=2e75ff&style=flat" /> </p>
+## 💻 Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=api&logoColor=white)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**DevOps & Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=orange)
+
+---
+
+## 📈 Key Achievements
+
+- ✅ Built **48 production repositories** with 1K+ stars
+- ✅ **40% average page speed improvement** across projects
+- ✅ **25%+ user engagement increase** through optimization
+- ✅ **10+ hours/week saved** in manual processes through automation
+- ✅ **95% deployment success rate** with CI/CD pipelines
+- ✅ 1,115+ LinkedIn followers | 500+ connections
+
+---
+
+## 📚 Latest Blog Posts & Articles
+
+- [System Design: The Skill That Separates Good From Great Developers](https://dev.to/jenilrupapara)
+- [Building Scalable REST APIs with Node.js](https://dev.to/jenilrupapara)
+- [5 React Performance Tips That Reduced Our App Load Time By 60%](https://dev.to/jenilrupapara)
+
+---
+
+## 🤝 Let's Connect
+
+💼 **LinkedIn:** [linkedin.com/in/jenilrupapara-fullstack-developer](https://www.linkedin.com/in/jenilrupapara-fullstack-developer/)  
+🌐 **Portfolio:** [jenilrupapara.netlify.app](https://jenilrupapara.netlify.app)  
+📧 **Email:** jenilrupapara340@gmail.com  
+📱 **Phone:** +91-87992-57934
+
+---
+
+## 🎓 Currently Learning
+
+- Advanced system design patterns
+- Cloud architecture (AWS, GCP)
+- Microservices & distributed systems
+- TypeScript deep-dive
+
+---
+
+## ⭐ If you find my work helpful, please consider starring my repositories!
+
+---
+
+**Last Updated:** January 2026 | Open to collaborations & opportunities 🚀
