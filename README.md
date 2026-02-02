@@ -49,7 +49,7 @@ Invoice generation & management system
 **Stack:** TypeScript, React, Node.js, MongoDB  
 **Impact:** 15-minute invoice processing vs 2 days
 
-### 5. **[MReporter](https://github.com/jenilrupapara001/mrexporter)**  
+### 5. **[MRexporter](https://github.com/jenilrupapara001/mrexporter)**  
 Data export and reporting automation tool  
 **Stack:** TypeScript, React, Node.js  
 **Impact:** Enterprise-grade reporting solution
